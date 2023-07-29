@@ -1066,6 +1066,9 @@ main {
 .edit-general-main {
   position: relative;
 }
+.edit-general-main__mobile {
+  display:none;
+}
 .edit-general-main__wrap {
   position: relative;
 }
